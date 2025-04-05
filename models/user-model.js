@@ -15,7 +15,7 @@ const userSchema = new Schema({
         type:Array,
         default:[]
     },
-    isAdmin:Boolean,
+
     contact:Number,
     picture:String,
 });
